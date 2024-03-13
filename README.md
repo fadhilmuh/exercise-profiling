@@ -49,6 +49,12 @@ Perhatikan Sample Time sekarang.
 
 ![JMetercmd Image](readme_images/jmeter_cmd_test.png)
 
+## CMD Exec. Result
+
+![JMetercmd Image](readme_images/all_student_name_before_cmd.jpg)
+
+![JMeter highest gpa Image](readme_images/highest_gpa_before_cmd.jpg)
+
 
 ## After Optimization
 
